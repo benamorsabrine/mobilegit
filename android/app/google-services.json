@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "331048149798",
+    "project_id": "netflix-react-12542",
+    "storage_bucket": "netflix-react-12542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331048149798:android:f4f8ed7589fb82b2ac17e7",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331048149798-v146693qdu82gl5nri4k5vf34n75jg17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHa9om3EptiPFJOPNpqfawCbGvmG3BVR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331048149798-v146693qdu82gl5nri4k5vf34n75jg17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
